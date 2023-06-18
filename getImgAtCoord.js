@@ -21,4 +21,7 @@ try{
 const clockwiseButton = document.querySelector('.sO0oCd');
 clockwiseButton.click();
 }
-
+catch(exception){
+  console.error("it pooped itself")
+}
+  
