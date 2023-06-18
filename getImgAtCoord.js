@@ -16,3 +16,9 @@ setTimeout(function() {
       downloadLink.click();
     });
 }, 1000);
+
+try{
+const clockwiseButton = document.querySelector('.sO0oCd');
+clockwiseButton.click();
+}
+
