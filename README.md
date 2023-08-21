@@ -1,1 +1,1 @@
-# google-maps
+A scratchpad for getting training data from google maps
